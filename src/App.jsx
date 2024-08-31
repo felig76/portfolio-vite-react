@@ -1,14 +1,16 @@
 import './App.css'
 import Header from './HeaderComponent/Header.jsx';
-import Projects from './ProjectsComponent/Projects.jsx';
+import ProjectsWidget from './ProjectsWidgetComponent/ProjectsWidget.jsx';
 
 function App() {
-
+  //agregar lista autogenerada de proyectos
   return (
     <>
       <Header />
       <main>
-        <Projects />
+        <ul id='projects'>
+
+        </ul>
       </main>
     </>
   )

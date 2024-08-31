@@ -1,25 +1,23 @@
-header{
+header {
     display: flex;
     justify-items: center;
-    padding: 0em 8em 0em 8em;
     align-items: center;
+    justify-content: space-around;
 }
 
-header h1{
+h1 {
     font-size: 2.5em;
 }
 
-nav{
-    margin-left: auto;
-}
-
-nav ul{
+ul {
     display: flex;
-    list-style: none;
-    
 }
 
-nav ul li{
+li {
     padding: 0.7em;
     margin: 0em 1.5em 0em 1.5em;
+}
+
+a {
+    font-size: 1.3em;
 }
