@@ -20,4 +20,12 @@ li {
 
 a {
     font-size: 1.3em;
+    font-weight: 300;
+    color: rgba(218, 195, 255);
+    text-decoration: inherit;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: rgb(181, 169, 247);
 }

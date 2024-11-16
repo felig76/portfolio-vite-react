@@ -1,0 +1,17 @@
+body {
+    color: rgba(218, 195, 255);
+    background: linear-gradient(80deg, #090813, #150c25);
+}
+
+#projects {
+    margin: 5rem 25rem 5rem 25rem;
+    padding: 3rem;
+    border-radius: 3rem;
+    background: linear-gradient(80deg, #1414146c, #25252562);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 1rem;
+    min-width: 30rem;
+  }
