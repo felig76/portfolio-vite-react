@@ -1,0 +1,17 @@
+#infoPersonal {
+    margin: 5rem 25rem 5rem 25rem;
+    padding: 5rem;
+    border: 2px solid #ffffff25;
+    border-radius: 2rem;
+
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+}
+
+#textoAbout {
+    color: #bd8bff3d;
+}
+#textoSobreMi {
+    color: #bd8bff9c;
+}
